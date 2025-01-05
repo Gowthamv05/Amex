@@ -20,9 +20,9 @@ cards_data = [
         "Min Salary": 50000,
         "Max Salary": 150000,
         "Annual Fee": 5000,
-        "Benefits": "Travel vouchers worth INR 7700 on reaching spending milestones, complimentary lounge access",
+        "Benefits": "joining bonus 10K, while spending 1.9L another 15k bonus then while spending 4 lakhs another 25K bonus.3X on multiplier.",
         "Maximize Benefits": "Use for travel-related purchases. Reach annual spending milestones for vouchers.",
-        "Rewards Strategy": "Earn accelerated points on travel bookings. Redeem vouchers for flights or hotel stays to maximize value.",
+        "Rewards Strategy": "Earn accelerated points on travel bookings. Redeem vouchers for flights or Flipkart voucher ot hotel stays to maximize value." ,
         "Fee Waiver": "Fee waiver on spending INR 7 lakh annually, can negotiate with customer care for fee waiver/discount.",
         "Spend Categories": ["Travel", "Hotel stays"],
         "Referral Link": "https://americanexpress.com/en-in/referral/platinum-travel?ref=gOWTHVYVIs&XL=MIMNS"
